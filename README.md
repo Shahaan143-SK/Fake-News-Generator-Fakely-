@@ -1,4 +1,6 @@
-# 🤪🗞️ Fake News Factory 🤡
+# 🤪🗞️ Fake News Factory 🤡  (Fakely)
+
+Preview Link : rb.gy/nj0ct1
 
 A fun and playful web application that generates hilarious fake news headlines featuring celebrities, random actions, and unexpected places/things. Built with Next.js and React.
 
